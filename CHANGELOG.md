@@ -1,4 +1,4 @@
-# Changelog
+<h2 align="center">Changelog</h2>
 
 ### Table of Contents
 - [v1.0.0](#v1.0.0)
